@@ -7,3 +7,6 @@
 3. Тимлид и Техлид - https://habr.com/ru/companies/psb/articles/839790/
 4. # Техлиды и продуктовые менеджеры — всё? Зачем нужны Technical Owner и Unit-лид в IT-командах - https://tproger.ru/articles/tehlidy-i-produktovye-menedzhery-vsyo--zachem-nuzhny-technical-owner-i-unit-lid-v-it-komandah
 5. Различия между Product Owner & Project Manager - https://habr.com/ru/articles/754632/
+
+
+![[Pasted image 20251208001531.png]]
