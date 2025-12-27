@@ -24,5 +24,5 @@
 22. ГосЗаказы (тендеры) - https://www.roseltorg.ru/procedure/0373100040325000034 [[Gost_TZ_Example]]
 23. ГОСТЫ - https://protect.gost.ru/document1.aspx?control=31&id=241754
 24. Аутсорсинг услуг технического писателя - https://documentat.io/?utm_medium=youtube&utm_source=open_course&utm_campaign=open_course
-25. Комплект для регистрации или сертификации ПО - https://gost.documentat.io/
+25. Комплект для регистрации или сертификации ПО - https://gost.documentat.io/ ^ea2ced
 26. Modern ГОСТ 34 - https://miro.com/app/board/o9J_kpAGXA0=/
