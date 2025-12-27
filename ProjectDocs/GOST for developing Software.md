@@ -1,5 +1,7 @@
 # ГОСТ для разработки Программного Обеспечения (GOST for developing Software)
 
+ГОСТ 34 - это методика по практическому применению итеративно-инкрементного подхода (WaterFall)
+
 ## Разбираемые ГОСТ-ы
 
 * https://protect.gost.ru/default.aspx/document1.aspx?control=31&baseC=6&page=0&month=3&year=-1&search=&id=241756
