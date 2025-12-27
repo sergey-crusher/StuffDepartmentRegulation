@@ -1,4 +1,4 @@
-# ХЗ
+# ХЗ. Но очень похоже на SCRUM
 
 1. text - https://habr.com/ru/articles/329572/
 
