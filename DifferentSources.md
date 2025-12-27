@@ -15,3 +15,11 @@
 13. Если на программу - то, скорее всего, по ГОСТ 19.201.
 14. # Как составить техническое задание на разработку сайта - https://habr.com/ru/articles/828192/
 15. # Каким должно быть ТЗ на Корпоративную ИС? - https://habr.com/ru/articles/312538/
+16. # ГОСТ 34. Разработка автоматизированной системы управления. - https://www.youtube.com/watch?v=fsPKbCbEr3A
+17. ПервыйБит - Школа проектного специалиста - https://t.me/techitpm
+18. ПервыйБит - Залог успешного проекта - Правильное техническое задание - https://dzen.ru/video/watch/6627d5a15624e34ff6592798
+19. Прототипирование: когда, почему и зачем - https://dzen.ru/a/ZNzlAbezC3_4nPkD?share_to=link
+20. Границы проекта - https://dzen.ru/a/ZBSEoJHIyUYPEP1n?share_to=link
+21. Матрица ответственности - https://dzen.ru/a/ZD1FiYeAvVVySSR0?share_to=link
+22. ГосЗаказы (тендеры) - https://www.roseltorg.ru/procedure/0373100040325000034 [[Gost_TZ_Example]]
+23. ГОСТЫ - https://protect.gost.ru/document1.aspx?control=31&id=241754
