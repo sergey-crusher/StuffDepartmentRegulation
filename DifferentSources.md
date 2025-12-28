@@ -26,3 +26,5 @@
 24. Аутсорсинг услуг технического писателя - https://documentat.io/?utm_medium=youtube&utm_source=open_course&utm_campaign=open_course
 25. Комплект для регистрации или сертификации ПО - https://gost.documentat.io/ ^ea2ced
 26. Modern ГОСТ 34 - https://miro.com/app/board/o9J_kpAGXA0=/
+27. Сообщество по ГОСТ 34 - https://gost34.ru/
+28. Сообщество по ГОСТ 34 - http://www.rugost.com/index.php?option=com_content&view=category&id=22&Itemid=53
