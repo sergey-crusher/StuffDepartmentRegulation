@@ -4,3 +4,5 @@ views:
     order:
       - file.name
       - file.folder
+    columnSize:
+      file.name: 750
